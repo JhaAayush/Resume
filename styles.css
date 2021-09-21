@@ -133,7 +133,7 @@ hr {
     text-decoration: none;
 }
 
-a {
+.footerlink{
     color: #3498db;
     font-family: 'Ubuntu',
         sans-serif;
